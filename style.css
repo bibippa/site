@@ -1,0 +1,16 @@
+.article{
+            background-color: bisque;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px;
+        }
+        .h1{
+            color: aqua;
+        }
+        .site-header{
+            display: flex;
+            background-color: bisque;
+            padding: 12px;
+            border-radius: 8px;
+            border: 1px;
+        }

@@ -1,16 +1,44 @@
-.article{
-            background-color: bisque;
-            padding: 12px;
-            border-radius: 8px;
-            border: 1px;
-        }
-        .h1{
-            color: aqua;
-        }
-        .site-header{
-            display: flex;
-            background-color: bisque;
-            padding: 12px;
-            border-radius: 8px;
-            border: 1px;
-        }
+.article {
+  background-color: bisque;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px;
+}
+
+２２ {
+  color: blue;
+}
+
+.site-header {
+  display: flex;
+  background-color: bisque;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px;
+}
+
+#title {
+  color: red;
+}
+
+.card {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.profile {
+  background: #ffffff;
+  color: #25313d;
+  padding: 24px;
+  border-radius: 16px;
+}
+
+.profile.dark {
+  background: #25313d;
+  color: #ffffff;
+}
+
+.hid{
+    display:none;
+}
